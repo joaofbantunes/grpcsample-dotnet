@@ -1,6 +1,6 @@
 # About
 
-Very simple sample of an gRPC client implemented in C# (implemented a Go server in [this repository](https://github.com/joaofbantunes/grpcsample-go).)
+Very simple sample of an gRPC client implemented in C# (implemented a Go server in [this repository](https://github.com/joaofbantunes/grpcsample-go)).
 
 Consider I'm on Windows for the next steps
 
